@@ -107,7 +107,7 @@ Methods that maximize task performance by selecting the model most likely to pro
 
 - **EmbedLLM: Learning Compact Representations of Large Language Models** (ICLR 2025)  
   Richard Zhuang, Tianhao Wu, Zhaojin Wen, Andrew Li, Jiantao Jiao, Kannan Ramchandran.  
-  [![Paper](https://img.shields.io/badge/arXiv-2410.02223-b31b1b.svg)](https://arxiv.org/abs/2410.02223)
+  [![Paper](https://img.shields.io/badge/arXiv-2410.02223-b31b1b.svg)](https://arxiv.org/abs/2410.02223) [![Code](https://img.shields.io/github/stars/richardzhuang0412/EmbedLLM.svg?style=social&label=Star)](https://github.com/richardzhuang0412/EmbedLLM)
 
 - **SelectLLM: Query-Aware Efficient Selection Algorithm for Large Language Models** (ACL 2025 Findings)  
   Kaushal Kumar Maurya, Kv Aditya Srivatsa, Ekaterina Kochmar.  
@@ -211,9 +211,9 @@ Methods that prioritize failure avoidance — reducing hallucinations, unsafe ou
 
 Methods that explicitly model trade-offs among multiple objectives (quality, cost, latency, safety, user preference).
 
-- **GraphRouter: A Graph-based Router for LLM Selections** (2025)  
+- **GraphRouter: A Graph-based Router for LLM Selections** (ICLR 2025)  
   Tao Feng, Yanzhen Shen, Jiaxuan You.  
-  [![Paper](https://img.shields.io/badge/arXiv-2410.03834-b31b1b.svg)](https://arxiv.org/abs/2410.03834)
+  [![Paper](https://img.shields.io/badge/arXiv-2410.03834-b31b1b.svg)](https://arxiv.org/abs/2410.03834) [![Code](https://img.shields.io/github/stars/ulab-uiuc/GraphRouter.svg?style=social&label=Star)](https://github.com/ulab-uiuc/GraphRouter)
 
 - **LLM Bandit: Cost-Efficient LLM Generation via Preference-Conditioned Dynamic Routing** (Feb 2025)  
   Yang Li.  
@@ -225,8 +225,8 @@ Methods that explicitly model trade-offs among multiple objectives (quality, cos
 
 - **Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning** (NeurIPS 2025)  
   Haozhen Zhang, Tao Feng, Jiaxuan You.  
-  [![Paper](https://img.shields.io/badge/OpenReview-NeurIPS_2025-blue)](https://openreview.net/forum?id=DWf4vroKWJ)
-
+  [![Paper](https://img.shields.io/badge/OpenReview-NeurIPS_2025-blue)](https://openreview.net/forum?id=DWf4vroKWJ) [![Code](https://img.shields.io/github/stars/ulab-uiuc/Router-R1.svg?style=social&label=Star)](https://github.com/ulab-uiuc/Router-R1)
+  
 - **LLM Routing with Dueling Feedback** (Oct 2025)  
   Chao-Kai Chiang, Takashi Ishida, Masashi Sugiyama.  
   [![Paper](https://img.shields.io/badge/arXiv-2510.00841-b31b1b.svg)](https://arxiv.org/abs/2510.00841)
@@ -279,9 +279,9 @@ Routing decisions made using only the raw input or lightweight features, before 
   Shuhao Chen et al.  
   [![Paper](https://img.shields.io/badge/arXiv-2409.19886-b31b1b.svg)](https://arxiv.org/abs/2409.19886) [![Code](https://img.shields.io/github/stars/shuhao02/RouterDC.svg?style=social&label=Star)](https://github.com/shuhao02/RouterDC)
 
-- **EmbedLLM: Learning Compact Representations of LLMs** (ICLR 2025)  
+- **EmbedLLM: Learning Compact Representations of LLMs** (ICLR 2025 Spotlight)  
   Richard Zhuang et al.  
-  [![Paper](https://img.shields.io/badge/arXiv-2410.02223-b31b1b.svg)](https://arxiv.org/abs/2410.02223)
+  [![Paper](https://img.shields.io/badge/arXiv-2410.02223-b31b1b.svg)](https://arxiv.org/abs/2410.02223) [![Code](https://img.shields.io/github/stars/richardzhuang0412/EmbedLLM.svg?style=social&label=Star)](https://github.com/richardzhuang0412/EmbedLLM)
 
 - **SelectLLM: Query-Aware Efficient Selection Algorithm for LLMs** (ACL 2025 Findings)  
   Kaushal Kumar Maurya et al.  
@@ -299,9 +299,9 @@ Routing decisions made using only the raw input or lightweight features, before 
   Wang Wei et al.  
   [![Paper](https://img.shields.io/badge/arXiv-2510.07429-b31b1b.svg)](https://arxiv.org/abs/2510.07429)
 
-- **GraphRouter: A Graph-based Router for LLM Selections** (2025)  
+- **GraphRouter: A Graph-based Router for LLM Selections** (ICLR 2025)  
   Tao Feng, Yanzhen Shen, Jiaxuan You.  
-  [![Paper](https://img.shields.io/badge/arXiv-2410.03834-b31b1b.svg)](https://arxiv.org/abs/2410.03834)
+  [![Paper](https://img.shields.io/badge/arXiv-2410.03834-b31b1b.svg)](https://arxiv.org/abs/2410.03834) [![Code](https://img.shields.io/github/stars/ulab-uiuc/GraphRouter.svg?style=social&label=Star)](https://github.com/ulab-uiuc/GraphRouter)
 
 - **SafeRoute: Adaptive Model Selection for Safety Guardrails** (ACL 2025 Findings)  
   Seanie Lee et al.  
@@ -353,7 +353,7 @@ Routing decisions conditioned on full or partial outputs, self-critique, or veri
 
 - **Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via RL** (NeurIPS 2025)  
   Haozhen Zhang, Tao Feng, Jiaxuan You.  
-  [![Paper](https://img.shields.io/badge/OpenReview-NeurIPS_2025-blue)](https://openreview.net/forum?id=DWf4vroKWJ)
+  [![Paper](https://img.shields.io/badge/OpenReview-NeurIPS_2025-blue)](https://openreview.net/forum?id=DWf4vroKWJ) [![Code](https://img.shields.io/github/stars/ulab-uiuc/Router-R1.svg?style=social&label=Star)](https://github.com/ulab-uiuc/Router-R1)
 
 - **LLM-Blender: Ensembling LLMs with Pairwise Ranking and Generative Fusion** (Jun 2023)  
   Dongfu Jiang, Xiang Ren, Bill Yuchen Lin.  
@@ -386,7 +386,7 @@ Models are assigned to different subtasks or reasoning steps within a single tas
 
 - **Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via RL** (NeurIPS 2025)  
   Haozhen Zhang, Tao Feng, Jiaxuan You.  
-  [![Paper](https://img.shields.io/badge/OpenReview-NeurIPS_2025-blue)](https://openreview.net/forum?id=DWf4vroKWJ)
+  [![Paper](https://img.shields.io/badge/OpenReview-NeurIPS_2025-blue)](https://openreview.net/forum?id=DWf4vroKWJ) [![Code](https://img.shields.io/github/stars/ulab-uiuc/Router-R1.svg?style=social&label=Star)](https://github.com/ulab-uiuc/Router-R1)
 
 - **TRIM: Hybrid Inference via Targeted Stepwise Routing in Multi-Step Reasoning** (2026)  
   Vansh Kapoor, Aman Gupta, Hao Chen, et al.  
@@ -483,7 +483,7 @@ Routing policies learned from labeled data (oracle model choices, performance ou
 
 - **EmbedLLM: Learning Compact Representations of LLMs** (ICLR 2025)  
   Richard Zhuang et al.  
-  [![Paper](https://img.shields.io/badge/arXiv-2410.02223-b31b1b.svg)](https://arxiv.org/abs/2410.02223)
+  [![Paper](https://img.shields.io/badge/arXiv-2410.02223-b31b1b.svg)](https://arxiv.org/abs/2410.02223) [![Code](https://img.shields.io/github/stars/richardzhuang0412/EmbedLLM.svg?style=social&label=Star)](https://github.com/richardzhuang0412/EmbedLLM)
 
 - **GraphRouter: A Graph-based Router for LLM Selections** (2025)  
   Tao Feng, Yanzhen Shen, Jiaxuan You.  
@@ -541,7 +541,7 @@ Routing policies updated through interaction — contextual bandits, reinforceme
 
 - **Router-R1: Teaching LLMs Multi-Round Routing via Reinforcement Learning** (NeurIPS 2025)  
   Haozhen Zhang, Tao Feng, Jiaxuan You.  
-  [![Paper](https://img.shields.io/badge/OpenReview-NeurIPS_2025-blue)](https://openreview.net/forum?id=DWf4vroKWJ)
+  [![Paper](https://img.shields.io/badge/OpenReview-NeurIPS_2025-blue)](https://openreview.net/forum?id=DWf4vroKWJ) [![Code](https://img.shields.io/github/stars/ulab-uiuc/Router-R1.svg?style=social&label=Star)](https://github.com/ulab-uiuc/Router-R1)
 
 - **PickLLM: Context-Aware RL-Assisted LLM Routing** (2025)  
   Dimitrios Sikeridis, Dennis Ramdass, Pranay Pareek.  
